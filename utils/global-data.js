@@ -4,7 +4,7 @@ export const getGlobalData = () => {
     : 'Home';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'Cryptosium Research';
+    : 'Cryptosium BlogSite';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
     : 'Cryptosium all rights reserved.';
