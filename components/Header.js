@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function Header({ name }) {
   return (
     <header className="pt-20 pb-12">
-      <Link href="https://nialthony.t.me"> {/* Ganti "/custom-link" dengan URL tujuan */}
+      <Link href="https://Cryptosium_Research.t.me"> {/* Ganti "/custom-link" dengan URL tujuan */}
         <img
           src="/images/csm1.jpg" // Path ke gambar
           alt="Custom Image"
