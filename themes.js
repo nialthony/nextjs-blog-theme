@@ -29,10 +29,10 @@ exports.COLOR_THEMES = {
   reddie: {
     colors: {
       primary: '#FF4D4D',
-      'gradient-1': '#FFC700',
-      'gradient-2': '#FF85DD',
-      'gradient-3': '#FF85DD',
-      'gradient-4': '#FF8585',
+      'gradient-1': '#98C1D9',
+      'gradient-2': '#EE6C4D',
+      'gradient-3': '#EE6C4D',
+      'gradient-4': '#98C1D9',
     },
   },
   greenie: {
